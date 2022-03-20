@@ -28,3 +28,8 @@ Just download the repo and you are good to go.
  13. Interface Segregation Principle [ISP].
  14. Dependency Inversion Principle [DIP]. 
 
+## License:
+
+MIT
+
+**Free Software**
