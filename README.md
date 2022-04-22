@@ -28,6 +28,22 @@ Just download the repo and you are good to go.
  13. Interface Segregation Principle [ISP].
  14. Dependency Inversion Principle [DIP]. 
 
+## Here are the details for each section:
+  
+### Details about 1,2,3 sections:
+
+#### Links:
+   1. [Top 4 symptoms of bad code](https://www.excella.com/insights/top-4-symptoms-of-bad-code).
+   2. [Design principles VS design patterns](https://stackoverflow.com/questions/31317141/whats-the-difference-between-design-patterns-and-design-principles#:~:text=Principles%20are%20best%20practices%20to,applicable%20to%20a%20different%20scenario).
+   
+### Details about 4,5,6 sections:
+
+#### Links:
+   1. [Yagni](https://martinfowler.com/bliki/Yagni.html).
+   2. [What is DRY development?](https://www.digitalocean.com/community/tutorials/what-is-dry-development).
+   3. [Keep it simple, stupid](https://www.freecodecamp.org/news/keep-it-simple-stupid-how-to-use-the-kiss-principle-in-design/).
+
+
 ## License:
 
 MIT
