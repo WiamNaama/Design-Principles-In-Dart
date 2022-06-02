@@ -43,6 +43,11 @@ Just download the repo and you are good to go.
    2. [What is DRY development?](https://www.digitalocean.com/community/tutorials/what-is-dry-development).
    3. [Keep it simple, stupid](https://www.freecodecamp.org/news/keep-it-simple-stupid-how-to-use-the-kiss-principle-in-design/).
 
+### Details about 7,8,9 sections:
+
+#### Links:
+   1. [Encapsulate what varies - Favor composition - Loose coupling ](https://bootcamp.uxdesign.cc/software-design-principles-every-developers-should-know-23d24735518e#:~:text=1.-,%E2%80%9CEncapsulate%20what%20varies%E2%80%9D,from%20what%20stays%20the%20same.).
+  
 
 ## License:
 
